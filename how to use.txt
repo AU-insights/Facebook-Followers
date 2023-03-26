@@ -1,0 +1,19 @@
+ ---------------- requirements for tool ---------------
+
+THE MAIN REQUIREMENT FOR TOOL IS TO FIRST YOU HAVE INSTALL PYTHON IN YOUR DEVICE IF YOU DONT HAVE PYTHON IN YOUR DEVICE 
+( GO IN MICROSFT PLAYSTORE AND INSTALL PYTHON 3.11 OR 3.10 IF YOU DONT HAVE MICROSOFT PLAYSTORE DOWNLOAD PYTHON FROM GOOGLE, WHEN 
+INSTALLATION IS DONE THEN RUN THE TOOL BY CLICKING IN RUN FILE )
+
+ ---------------- steps ------------------------
+
+step 1 : simple click on run file
+step 2 : create simple file with any name { example 1.txt }
+step 3 : paste all of your ids or cookies in the file you just created { like 1.txt i just created }
+step 4 : if you have facebook id login email and password you have to use method 2 in script email and pass login
+step 5 : if you have cookies in your file {1.txt} then use method 1 of tool cookies login
+step 6 : put link id of page for example i have this 
+link https://www.facebook.com/101873785246691/posts/632335741527365 so you have to get the 
+number started after .com/ like 101873785246691
+step 7 : your process have started 
+
+Thanks For Using 
