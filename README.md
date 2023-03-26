@@ -19,6 +19,7 @@ INSTALLATION IS DONE THEN RUN THE TOOL BY CLICKING IN RUN FILE)</p>
 Step 2 : create simple file with any name { example 1.txt }<br>
 Step 3 : paste all of your ids or cookies in the file you just created { like 1.txt i just created }<br>
 Step 4 : if you have facebook id login email and password you have to use method 2 in script email and pass login<br>
+<h6>Step Main : Paste Ids Like This Format email|pass (ex au@gmail.com|au12345)</h6>
 Step 5 : if you have cookies in your file {1.txt} then use method 1 of tool cookies login<br>
 Step 6 : put link id of page <br>
 Step 7 : your process have started </p><br>
